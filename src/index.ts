@@ -1,5 +1,3 @@
-// Added some comments
-// Added some comments 2
 export * from "./errors/bad-request-error";
 export * from "./errors/custom-error";
 export * from "./errors/database-connection-errors";
